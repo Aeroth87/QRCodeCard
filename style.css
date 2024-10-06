@@ -12,8 +12,8 @@ body{
   background-color: hsl(212, 45%, 89%);
 }
 .card{
-  height: 499px;
-  width: 320px;
+  height: 480px;
+  width: 300px;
   border-radius: 10px;
   background-color: hsl(0, 0%, 100%);
   padding: 1rem;
